@@ -2,6 +2,16 @@ body {
     
 }
 
+#intro {
+    /*
+    background-image: url(resources/kelham-island.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-size: contain;
+    background-repeat: space;
+    */
+}
+
 .no-margin {
     margin: 0;
 }
